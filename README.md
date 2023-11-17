@@ -25,7 +25,7 @@ The Facial Recognition Attendance System is a Python-based project that leverage
 1.Run the Python script:
 
      python facial_recognition_attendance.py
-2.  Press 'q' to exit the application.
+2.Press 'q' to exit the application.
 
 ## Configuration
 1. Update the known faces in the photos/ directory with images of individuals to be recognized.
