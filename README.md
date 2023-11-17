@@ -1,7 +1,7 @@
 # Face-Recognition-for-Attendance
 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+https://github.com/ageitgey/face_recognition [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
