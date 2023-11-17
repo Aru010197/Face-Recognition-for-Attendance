@@ -1,12 +1,11 @@
 # Face-Recognition-for-Attendance
-
-
-https://github.com/ageitgey/face_recognition [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
 The Facial Recognition Attendance System is a Python-based project that leverages facial recognition technology to automate the attendance tracking process. This project uses OpenCV, NumPy, and face-recognition libraries to create a secure and efficient authentication system.
 
+https://github.com/ageitgey/face_recognition 
 
 ## Features
 
