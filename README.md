@@ -7,14 +7,6 @@
 
 The Facial Recognition Attendance System is a Python-based project that leverages facial recognition technology to automate the attendance tracking process. This project uses OpenCV, NumPy, and face-recognition libraries to create a secure and efficient authentication system.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -29,11 +21,21 @@ The Facial Recognition Attendance System is a Python-based project that leverage
 - **Dependency Installation:**
   - Provides clear instructions for installing required Python packages using pip.
 
-## Installation
+## Usage 
+1.Run the Python script:
 
-To run the Facial Recognition Attendance System on your local machine, follow these steps:
+     python facial_recognition_attendance.py
+2.  Press 'q' to exit the application.
 
-1. Clone the repository:
+## Configuration
+1. Update the known faces in the photos/ directory with images of individuals to be recognized.
+2. Adjust the file path and name in the script for storing attendance data (default: current_date.csv).
 
-   ```bash
-   git clone https://github.com/your-username/facial-recognition-attendance.git
+## Dependencies
+- OpenCV (opencv-python)
+- NumPy (numpy)
+- Face Recognition (face_recognition)
+
+## License
+This project is licensed under the MIT License.
+
